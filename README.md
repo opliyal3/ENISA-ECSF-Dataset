@@ -1,4 +1,4 @@
-# enisa-ECSF dataset
+# ENISA-ECSF-Dataset
 
 The `ENISA.yaml` file has been created based on the `European Cybersecurity Skills Framework Role Profiles.pdf` file and
 shares the same editable structure.
